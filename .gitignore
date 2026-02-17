@@ -1,0 +1,7 @@
+venv/
+env/
+ChromaDB/
+__pycache__/
+files/
+config.bat
+node_modules
